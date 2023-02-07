@@ -6,3 +6,6 @@ Belizario Dominguez
 
 ## Primaria
 Ignacio Zaragoza
+
+## Secundaria
+Telesecundaria Tecnica 196
