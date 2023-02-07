@@ -9,3 +9,6 @@ Ignacio Zaragoza
 
 ## Secundaria
 Telesecundaria Tecnica 196
+
+## Preparatoria
+Colegio Nacional de Educacion Profecional Tecnica
