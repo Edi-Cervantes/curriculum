@@ -12,3 +12,6 @@ Telesecundaria Tecnica 196
 
 ## Preparatoria
 Colegio Nacional de Educacion Profecional Tecnica
+
+## Licenciatura
+UAdeO GVE
